@@ -1,7 +1,7 @@
 # Frequently Asked Questions (FAQ)
 
 <details>
-<summary><strong>What are the best models for bolt.diy?</strong></summary>
+<summary><strong>What are the best models for bolt.diy?</strong></summary>   
 
 For the best experience with bolt.diy, we recommend using the following models:
 
